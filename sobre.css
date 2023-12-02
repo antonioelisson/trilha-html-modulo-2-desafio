@@ -1,0 +1,14 @@
+.header__foto--sobre {
+    background-image: url(../pagina_sobre/image/image_header_sobre.jpg);
+    background-size: cover;
+    
+}
+.header__texto--sobre{
+    text-align: center;
+    margin: 47px 220px;
+    font-size: 45px;
+    color: #3E4265;
+    background-color: rgba(211, 211, 211, 0.73);
+    border-radius: 20px;
+  
+}
