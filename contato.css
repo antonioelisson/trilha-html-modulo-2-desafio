@@ -1,0 +1,26 @@
+.header{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-image: url(https://img.freepik.com/fotos-premium/registo-medico_23785-402.jpg?size=626&ext=jpg);
+    min-height: 150px;
+
+}
+.header__texto--contato{
+    color: #3E4265;
+    text-align: center;
+    margin: 47px 370px;
+    font-size: 45px;
+    background-color: rgba(211, 211, 211, 0.73);
+    border-radius: 20px;
+
+
+}
+.footer__map{
+    max-height: 150px;
+    width: 70%;
+    margin: 15px;
+    border: 2px solid black;
+   
+}
