@@ -1,0 +1,16 @@
+.foto__horarios{
+  background: center;
+  background-image: url(https://media.istockphoto.com/id/1302483442/pt/foto/stack-of-report-medical-documents-and-stethoscope-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=mCfEwVaGyKp-Nekhv08lHsvUissLQXvjnPizDnj1pjA=);
+  background-size: cover;
+  min-height: 150px;
+
+}
+.header__texto--agende{
+  color: #3E4265;
+  text-align: center;
+  margin: 47px 215px;
+  font-size: 45px;
+  background-color: rgba(211, 211, 211, 0.73);
+  border-radius: 20px;
+
+}

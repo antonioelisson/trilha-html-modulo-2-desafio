@@ -1,0 +1,11 @@
+.tabela__horarios{
+  border: 2px solid gray;
+  text-align: center;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 10px;
+}
+.linhaImpar{
+  background-color: lightgray;
+  
+}
